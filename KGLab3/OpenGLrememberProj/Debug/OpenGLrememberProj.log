@@ -1,0 +1,15 @@
+﻿  Render.cpp
+d:\кг\мазур\kglab3\openglrememberproj\render.cpp(111): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\кг\мазур\kglab3\openglrememberproj\render.cpp(113): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\кг\мазур\kglab3\openglrememberproj\render.cpp(114): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\кг\мазур\kglab3\openglrememberproj\render.cpp(431): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\кг\мазур\kglab3\openglrememberproj\render.cpp(432): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\кг\мазур\kglab3\openglrememberproj\render.cpp(433): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  PrimitivesStatic.cpp
+  Primitives.cpp
+  OpenGLrememberProj.cpp
+  Object.cpp
+  MyOGL.cpp
+  Generating Code...
+  OpenGLrememberProj.vcxproj -> D:\КГ\Мазур\KGLab3\Debug\OpenGLrememberProj.exe
+  OpenGLrememberProj.vcxproj -> D:\КГ\Мазур\KGLab3\Debug\OpenGLrememberProj.pdb (Partial PDB)
